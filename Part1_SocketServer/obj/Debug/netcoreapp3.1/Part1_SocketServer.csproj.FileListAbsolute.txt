@@ -1,0 +1,13 @@
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/bin/Debug/netcoreapp3.1/Part1_SocketServer
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/bin/Debug/netcoreapp3.1/Part1_SocketServer.deps.json
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/bin/Debug/netcoreapp3.1/Part1_SocketServer.runtimeconfig.json
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/bin/Debug/netcoreapp3.1/Part1_SocketServer.runtimeconfig.dev.json
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/bin/Debug/netcoreapp3.1/Part1_SocketServer.dll
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/bin/Debug/netcoreapp3.1/Part1_SocketServer.pdb
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.csprojAssemblyReference.cache
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.AssemblyInfoInputs.cache
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.AssemblyInfo.cs
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.csproj.CoreCompileInputs.cache
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.dll
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.pdb
+/home/yury/RiderProjects/Solution1/Part1_SocketServer/obj/Debug/netcoreapp3.1/Part1_SocketServer.genruntimeconfig.cache

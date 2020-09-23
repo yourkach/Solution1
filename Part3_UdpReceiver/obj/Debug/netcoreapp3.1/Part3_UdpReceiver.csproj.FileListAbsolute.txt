@@ -1,0 +1,13 @@
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/bin/Debug/netcoreapp3.1/Part3_UdpReceiver
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/bin/Debug/netcoreapp3.1/Part3_UdpReceiver.deps.json
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/bin/Debug/netcoreapp3.1/Part3_UdpReceiver.runtimeconfig.json
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/bin/Debug/netcoreapp3.1/Part3_UdpReceiver.runtimeconfig.dev.json
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/bin/Debug/netcoreapp3.1/Part3_UdpReceiver.dll
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/bin/Debug/netcoreapp3.1/Part3_UdpReceiver.pdb
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.csprojAssemblyReference.cache
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.AssemblyInfoInputs.cache
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.AssemblyInfo.cs
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.csproj.CoreCompileInputs.cache
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.dll
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.pdb
+/home/yury/RiderProjects/Solution1/Part3_UdpReceiver/obj/Debug/netcoreapp3.1/Part3_UdpReceiver.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/bin/Debug/netcoreapp3.1/Part3_UdpSender
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/bin/Debug/netcoreapp3.1/Part3_UdpSender.deps.json
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/bin/Debug/netcoreapp3.1/Part3_UdpSender.runtimeconfig.json
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/bin/Debug/netcoreapp3.1/Part3_UdpSender.runtimeconfig.dev.json
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/bin/Debug/netcoreapp3.1/Part3_UdpSender.dll
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/bin/Debug/netcoreapp3.1/Part3_UdpSender.pdb
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.csprojAssemblyReference.cache
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.AssemblyInfoInputs.cache
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.AssemblyInfo.cs
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.csproj.CoreCompileInputs.cache
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.dll
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.pdb
+/home/yury/RiderProjects/Solution1/Part3_UdpSender/obj/Debug/netcoreapp3.1/Part3_UdpSender.genruntimeconfig.cache
